@@ -1,0 +1,36 @@
+Level Numbers and Names
+
+Episode A
+1. Introduction [Dwelling]
+2. Stalagmites [Volcana]
+3. Heist [Temple]
+4. Heated Floors [Neo Babylon]
+5. Infested [Sunken City]
+
+Episode B
+6. Abode [Dwelling]
+7. Carnivorous[Jungle]
+8. Headbutt [Tidepool]
+9. Barrier [Neo Babylon]
+10. Aquatic [Sunken City]
+
+Episode C
+11. Scorpion Pit [Dwelling]
+12. Spicy [Volcana]
+13. Precision [Jungle]
+14. Aquarium [Tidepool]
+15. Pyromancer [Temple]
+
+Episode D
+16. Restless [Volcana]
+17. Voodoo [Jungle]
+18. Undead [Tidepool]
+19. Buried [Temple]
+20. Decay [Sunken City]
+
+Episode E
+21. Sanctuary [Neo Babylon]
+22. Trio [Dwelling]
+23. Waterlogged [Tidepool]
+24. Excavation [Volcana]
+25. Umbra [Temple]
